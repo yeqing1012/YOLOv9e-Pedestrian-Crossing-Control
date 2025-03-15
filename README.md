@@ -12,7 +12,8 @@
    - Tkinter
    - A camera (optional)
 
-🚀  **How to use**
+🚀  **Notes**
    - "app.py" is used for real-time detection and requires the use of a camera.
    - "app_video" is used for video detection, you need to input the location of video file.
+   - "detect.py" realizes area target detection.
    - Simulate the UI design map of a school road and implement traffic light signal changes based on what is detected.
